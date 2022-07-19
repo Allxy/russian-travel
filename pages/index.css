@@ -1,3 +1,5 @@
+@import url(../fonts/fonts.css);
+
 @import url(../blocks/page/page.css);
 @import url(../blocks/wrapper/wrapper.css);
 
@@ -5,7 +7,7 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang-selector/header__lang-selector.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
-@import url(../blocks/header/__lang-link/_noneactive/header__lang-link_noneactive.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 
 @import url(../blocks/content/content.css);
 
