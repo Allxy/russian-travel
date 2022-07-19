@@ -5,6 +5,7 @@
   height: max-content;
   margin: 0;
   padding: 0;
+  display: grid;
 }
 
 @media screen and (max-width: 1024px) {
