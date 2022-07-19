@@ -8,7 +8,7 @@
   display: grid;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .cover {
     padding-top: 2px;
   }
