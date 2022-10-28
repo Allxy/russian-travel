@@ -6,6 +6,7 @@
   background-color: #2a2c2f;
   font-family: Inter, sans-serif;
   color: white;
+  display: flex;
 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
