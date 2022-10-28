@@ -6,6 +6,8 @@
 
 "Russian Travel" или "Путешествие по России" сайт о путешествии по просторам необьятной России.
 
+![image](https://user-images.githubusercontent.com/2528627/198748901-205d2504-89b8-41a2-b558-26f507cd2895.png)
+
 [Ссылка на GitHub Pages](https://allxy.github.io/russian-travel/)
 
 ## Функционал
